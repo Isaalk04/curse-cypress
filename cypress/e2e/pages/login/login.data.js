@@ -3,7 +3,8 @@ export class loginData{
         
         return{
             username: "abc",
-            password: "abc"
+            password: "abc",
+            
         };
     }
 }

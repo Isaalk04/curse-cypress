@@ -1,10 +1,9 @@
-export class loginData{
-    static get invalidCredential(){
+///export class loginData{
+   //* static get invalidCredential(){*///
         
-        return{
+        /**return{
             username: "abc",
             password: "abc",
             
         };
     }
-}
